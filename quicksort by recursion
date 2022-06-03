@@ -101,3 +101,7 @@ int main()
     return 0;
 }
 
+eg:-
+input size =4
+input array= 3 2 7 5
+output array= 2 3 5 7 
